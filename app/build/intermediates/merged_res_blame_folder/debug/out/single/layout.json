@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.viacep.app-mergeDebugResources-46:/layout/item_address.xml",
+        "source": "com.example.viacep.app-main-49:/layout/item_address.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-mergeDebugResources-46:/layout/fragment_list_address.xml",
+        "source": "com.example.viacep.app-main-49:/layout/fragment_list_address.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.viacep.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-mergeDebugResources-46:/layout/fragment_search_address.xml",
+        "source": "com.example.viacep.app-main-49:/layout/fragment_search_address.xml"
+    }
+]

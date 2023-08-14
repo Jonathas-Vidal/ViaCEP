@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/drawable_bg_edit.xml.flat",
+        "source": "com.example.viacep.app-main-49:/drawable/bg_edit.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/drawable_ic_add.xml.flat",
+        "source": "com.example.viacep.app-main-49:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.viacep.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/drawable_bg_button.xml.flat",
+        "source": "com.example.viacep.app-main-49:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/layout_fragment_search_address.xml.flat",
+        "source": "com.example.viacep.app-main-49:/layout/fragment_search_address.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/layout_item_address.xml.flat",
+        "source": "com.example.viacep.app-main-49:/layout/item_address.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/font_avenir_ltstd_heavy.ttf.flat",
+        "source": "com.example.viacep.app-main-49:/font/avenir_ltstd_heavy.ttf"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.viacep.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.viacep.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.viacep.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/layout_fragment_list_address.xml.flat",
+        "source": "com.example.viacep.app-main-49:/layout/fragment_list_address.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/font_avenir_medium.ttf.flat",
+        "source": "com.example.viacep.app-main-49:/font/avenir_medium.ttf"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.viacep.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/navigation_main_graph.xml.flat",
+        "source": "com.example.viacep.app-main-49:/navigation/main_graph.xml"
+    },
+    {
+        "merged": "com.example.viacep.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.viacep.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,7 @@
+com.example.viacep.test.app-core-1.5.0-0 C:\Users\jonat\.gradle\caches\transforms-3\7628aefb753afc8d8b96f0465593fd38\transformed\core-1.5.0\res
+com.example.viacep.test.app-annotation-experimental-1.3.0-1 C:\Users\jonat\.gradle\caches\transforms-3\e6edcf6b26aa74cb5fa50392d671006b\transformed\annotation-experimental-1.3.0\res
+com.example.viacep.test.app-androidTest-2 C:\Users\jonat\AndroidStudioProjects\ViaCEP\app\build\generated\res\resValues\androidTest\debug
+com.example.viacep.test.app-androidTest-3 C:\Users\jonat\AndroidStudioProjects\ViaCEP\app\build\generated\res\rs\androidTest\debug
+com.example.viacep.test.app-mergeDebugAndroidTestResources-4 C:\Users\jonat\AndroidStudioProjects\ViaCEP\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.viacep.test.app-mergeDebugAndroidTestResources-5 C:\Users\jonat\AndroidStudioProjects\ViaCEP\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.viacep.test.app-merged_res-6 C:\Users\jonat\AndroidStudioProjects\ViaCEP\app\build\intermediates\merged_res\debugAndroidTest

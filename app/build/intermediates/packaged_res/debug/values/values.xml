@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_default">#FCFCFC</color>
+    <color name="black">#FF000000</color>
+    <color name="color_primary">#6E48EB</color>
+    <color name="color_primary_inactive">#556E48EB</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ViaCEP</string>
+    <string name="label_address_empty_search_address_fragment">Nenhum endereço encontrado\ncom o cep digitado.</string>
+    <string name="label_cep_search_address_fragment">01311300</string>
+    <string name="label_enter_with_cep_search_address_fragment">Digite o CEP para obter o endereço</string>
+    <string name="text_button_save_search_address_fragment">Salvar</string>
+    <style name="ButtonCustom">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/avenir_ltstd_heavy</item>
+        <item name="android:height">60dp</item>
+        <item name="android:background">@drawable/bg_button</item>
+    </style>
+    <style name="Theme.ViaCEP" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/color_primary</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:windowBackground">@color/background_default</item>
+    </style>
+</resources>
