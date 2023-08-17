@@ -26,7 +26,7 @@ Aplicativo que faz a consulta de um determinado CEP e exibe informações do loc
 - Minimum SDK level : 28
 - [Linguagem Kotlin](https://kotlinlang.org/)
 
-- Jetpack - LISTE O MÁXIMO DE COMPONENTES DO JETPACK QUE VOCÊ USA
+- Android Jetpack:
   - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
   - Livedata: LiveData é uma classe armazenadora de dados observável.
   - ViewModel: Gerencia o detentor de dados relacionados à interface do usuário e o ciclo de vida. Permite que os dados sobrevivam a alterações de configuração, como rotações de tela.
